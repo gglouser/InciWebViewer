@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="com.glouser.inciwebviewer.util.DateFormatKt" />
+
+        <variable
+            name="incident"
+            type="com.glouser.inciwebviewer.database.Incident" />
+
+        <variable
+            name="clickListener"
+            type="com.glouser.inciwebviewer.feed.FeedItemListener" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="#DDDDDD"
+        android:onClick="@{() -> clickListener.onClick(incident)}"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/incident_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{incident.name}"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Incident Title (Wildfire)" />
+
+        <TextView
+            android:id="@+id/incident_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@{incident.description}"
+            android:maxLines="4"
+            android:ellipsize="end"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/incident_title"
+            tools:text="Incident description ... (more)" />
+
+        <TextView
+            android:id="@+id/update_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="2dp"
+            android:text="@{DateFormatKt.dateToRelative(incident.date)}"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/clock_symbol"
+            app:layout_constraintTop_toTopOf="@+id/clock_symbol"
+            tools:text="UPDATE_TIME" />
+
+        <ImageView
+            android:id="@+id/clock_symbol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:tint="@color/colorPrimary"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/incident_desc"
+            app:srcCompat="@drawable/ic_access_time_black_24dp" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

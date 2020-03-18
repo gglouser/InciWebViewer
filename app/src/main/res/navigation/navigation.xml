@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/incidentFeedFragment">
+
+    <fragment
+        android:id="@+id/incidentFeedFragment"
+        android:name="com.glouser.inciwebviewer.feed.IncidentFeedFragment"
+        android:label="@string/list_label"
+        tools:layout="@layout/fragment_incident_feed">
+        <action
+            android:id="@+id/action_feedFragment_to_detailsFragment"
+            app:destination="@id/incidentDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/incidentDetailsFragment"
+        android:name="com.glouser.inciwebviewer.details.IncidentDetailsFragment"
+        android:label="@string/title_activity_incident_details"
+        tools:layout="@layout/fragment_incident_details">
+        <argument
+            android:name="incidentID"
+            app:argType="long" />
+    </fragment>
+</navigation>

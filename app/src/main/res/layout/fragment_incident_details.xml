@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="detailsViewModel"
+            type="com.glouser.inciwebviewer.details.IncidentDetailsViewModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".details.IncidentDetailsFragment">
+
+        <ImageView
+            android:contentDescription="@string/place_icon"
+            android:id="@+id/details_place_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:tint="@color/colorPrimary"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/details_date"
+            app:srcCompat="@drawable/ic_room_black_24dp" />
+
+        <TextView
+            android:id="@+id/details_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:text="@{detailsViewModel.incident.date}"
+            android:textSize="12sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/details_title"
+            tools:text="update pub date" />
+
+        <TextView
+            android:id="@+id/details_geo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="2dp"
+            android:onClick="@{() -> detailsViewModel.onGeoClick()}"
+            android:text="@{@string/details_geo_format(detailsViewModel.incident.latitude, detailsViewModel.incident.longitude)}"
+            android:textColor="@color/design_default_color_primary"
+            app:layout_constraintStart_toEndOf="@+id/details_place_icon"
+            app:layout_constraintTop_toTopOf="@+id/details_place_icon"
+            tools:text="LAT/LONG" />
+
+        <TextView
+            android:id="@+id/details_link"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="2dp"
+            android:onClick="@{() -> detailsViewModel.onLinkClick()}"
+            android:text="@string/view_on_inciweb"
+            android:textColor="@color/design_default_color_primary"
+            app:layout_constraintStart_toEndOf="@+id/details_link_icon"
+            app:layout_constraintTop_toTopOf="@+id/details_link_icon" />
+
+        <TextView
+            android:id="@+id/details_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:text="@{detailsViewModel.incident.name}"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Incident Title" />
+
+        <ImageView
+            android:contentDescription="@string/link_icon"
+            android:id="@+id/details_link_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:tint="@color/colorPrimary"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/details_place_icon"
+            app:srcCompat="@drawable/ic_public_black_24dp" />
+
+        <TextView
+            android:id="@+id/details_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:text="@{detailsViewModel.incident.description}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/details_link_icon"
+            tools:text="Incident description" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

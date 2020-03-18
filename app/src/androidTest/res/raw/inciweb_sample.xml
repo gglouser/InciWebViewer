@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- 
+cached data at 17:14:03
+cached id 76aaeee55f1a2cd366a5162c3f82fb79
+-->
+<rss version="2.0"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:georss="http://www.georss.org/georss"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+    <channel>
+        <atom:link
+            href="http://inciweb.nwcg.gov/feeds/rss/incidents/"
+            rel="self"
+            type="application/rss+xml" />
+        <title>InciWeb National Incidents</title>
+        <link>http://inciweb.nwcg.gov</link>
+        <description>Latest incident updates nationally</description>
+        <pubDate>Thu, 15 Aug 2019 17:14:03 -05:00</pubDate>
+        <language>en-us</language>
+        <item>
+            <title>Snow Creek Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 17:11:16 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 17:11:16 -05:00</pubDate>
+            <georss:point>47.703333333333 -113.4</georss:point>
+            <geo:lat>47.703333333333</geo:lat>
+            <geo:long>-113.4</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6497/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6497/</guid>
+            <description>Although still creeping and smoldering, minimal fire activity occurred
+                throughout the weekend and into Tuesday, August 13th, due to an increase in RH
+                values, lower temperatures, and significant precipitation; the Black Bear
+                Administrative site has received 0.61&quot; of rain while the Salmon Forks
+                Administration site has received 0.81&quot;. Fire behavior is expected to pick back
+                up with warmer, drier weather conditions predicted for the area over the next few
+                days. Notably, the fire has not yet established in the area burned by both the 2000
+                Helen Creek Fire and the 2013 Damnation Fire. The fire is burning the heavy dead and
+                down fuels in the 2000 burn area and along the grassy slope west of the 2013 burn,
+                but has not spread into the twice burned area despite hot, dry conditions and
+                significant growth elsewhere. Continued low to moderate surface fire and growth
+                through the heavy dead and down fuels in the 2000 fire area will continue due to the
+                low 1000hr fuel moisture. Spotted Bear and Hungry...
+            </description>
+        </item>
+        <item>
+            <title>Williams Flats Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 17:00:48 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 17:00:48 -05:00</pubDate>
+            <georss:point>47.98 -118.62388888889</georss:point>
+            <geo:lat>47.98</geo:lat>
+            <geo:long>-118.62388888889</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6493/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6493/</guid>
+            <description>Keller, WA- The Williams Flats Fire started on August 2, 2019 after a band
+                of early morning thunderstorms with lightning moved across the eastern portion of
+                the Colville Indian Reservation. The fire is burning south of Silver Creek
+                Road,within the designated Game Reserve. Roads have been closed to this area at
+                Kuehne Road and Canteen Creek Roads and plus other roads which could access the fire
+                area. This is for firefighter and public safety. The fire is moving east and has
+                crossed crossed Brody Creek Road and Redford Canyon.Steep slopes, limited access and
+                primitive roads conditions are hampering containment efforts.Colville Tribal Natural
+                Resource Law Enforcement Officers are asking boaters to stay clear of the
+                firefighting efforts at Lake Roosevelt Recreational Area.
+            </description>
+        </item>
+        <item>
+            <title>Trumbull (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 16:09:32 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 16:09:32 -05:00</pubDate>
+            <georss:point>36.411944444444 -113.14083333333</georss:point>
+            <geo:lat>36.411944444444</geo:lat>
+            <geo:long>-113.14083333333</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6514/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6514/</guid>
+            <description>News Release BLM Arizona Strip District, Arizona For Immediate Release:
+                August 14, 2019Media Contact: Rachel T. Carnahan, Public Affairs Officer
+                rcarnahan@blm.gov (435) 688-3303 Trumbull Fire update and notice of temporary fire
+                area closureSt. George, Utah – On August 5, 2019, fire managers responded to a
+                lightning caused fire located approximately 53 miles south of St. George, Utah
+                within the Grand Canyon-Parashant National Monument. The “Trumbull Fire,” located in
+                the Mt. Trumbull Wilderness is now approximately 505 acres, burning in ponderosa
+                pine, oak brush, pine needle duff and grass. Multiple resources from the Bureau of
+                Land Management (BLM), Arizona Strip District are monitoring the fire; including one
+                helicopter, one engine, and a fire effects monitor. This lightning caused fire is
+                being monitored as it burns naturally across the landscape. This fire is being
+                allowed to play its natural role within the fire-adapted Ponderosa pine ecosystem.
+                Under the right...
+            </description>
+        </item>
+        <item>
+            <title>Wood Canyon (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 15:56:19 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 15:56:19 -05:00</pubDate>
+            <georss:point>39.740555555556 -118.1975</georss:point>
+            <geo:lat>39.740555555556</geo:lat>
+            <geo:long>-118.1975</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6520/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6520/</guid>
+            <description>8-15-19 update, Wood Canyon Fire air and ground fire fighting units are
+                engaged in suppression activities. Corrections to mapping projections have the
+                fire's size at 1,383 acres. The fire is burning in Pinon Juniper with sage and grass
+            </description>
+        </item>
+        <item>
+            <title>Red Feather Prescribed Burn (Prescribed Fire)</title>
+            <published>Thu, 15 Aug 2019 15:04:47 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 15:04:47 -05:00</pubDate>
+            <georss:point>40.852222222222 -105.57555555556</georss:point>
+            <geo:lat>40.852222222222</geo:lat>
+            <geo:long>-105.57555555556</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/5027/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/5027/</guid>
+            <description>August 15 Update: Conditions look good for ignition of the Red Feather
+                Prescribed Burn on August 16. Expect to see firefighters and smoke in the area
+                Friday. If conditions allow, burning could continue over the weekend. Canyon Lake
+                Ranger District fire and fuel managers are monitoring conditions in the Roosevelt
+                National Forest to return to operations on the Red Feather Prescribed Burn as soon
+                as Thursday, June 27. If conditions allow, burning could continue throughout the
+                weekend and into next week.This prescribed burn is located north of Red Feather
+                Lakes, Colo., east of the Crystal Lakes Subdivision at 8,500 feet elevation. A great
+                deal of work has already taken place on this burn and provides a treated line or
+                previously burned ground around much of the perimeter. Firefighters plan to burn
+                approximately 300 acres of unburned ground, as well as reenter some areas that were
+                burned previously. In some of those previously burned areas, the burn was conducted
+                when there was higher fuel...
+            </description>
+        </item>
+        <item>
+            <title>Park Ridge Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 14:58:47 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 14:58:47 -05:00</pubDate>
+            <georss:point>38.090555555556 -111.32527777778</georss:point>
+            <geo:lat>38.090555555556</geo:lat>
+            <geo:long>-111.32527777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6486/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6486/</guid>
+            <description>On the evening of July 24, 2019, a lightning strike ignited a single tree
+                in the Park Ridge area of Boulder Mountain. Fremont River Ranger District plans to
+                manage this ignition to aid towards a healthy Ponderosa pine ecosystem, by utilizing
+                low intensity under burn
+            </description>
+        </item>
+        <item>
+            <title>Pemberton Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 14:41:55 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 14:41:55 -05:00</pubDate>
+            <georss:point>34.718333333333 -112.68027777778</georss:point>
+            <geo:lat>34.718333333333</geo:lat>
+            <geo:long>-112.68027777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6521/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6521/</guid>
+            <description>The Pemberton Fire is a lightning caused wildfire that is being used to
+                reduce hazardous fuel build up and improve ecosystem
+            </description>
+        </item>
+        <item>
+            <title>Sheridan Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 14:40:10 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 14:40:10 -05:00</pubDate>
+            <georss:point>34.677777777778 -112.89027777778</georss:point>
+            <geo:lat>34.677777777778</geo:lat>
+            <geo:long>-112.89027777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6522/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6522/</guid>
+            <description>The Sheridan Fire is a lightning-caused wildfire that is being used to
+                improve resource conditions in the area.
+            </description>
+        </item>
+        <item>
+            <title>SHF Lightning Fires 2019 (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 13:56:15 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 13:56:15 -05:00</pubDate>
+            <georss:point>41.063333333333 -122.63805555556</georss:point>
+            <geo:lat>41.063333333333</geo:lat>
+            <geo:long>-122.63805555556</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6370/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6370/</guid>
+            <description>Lightning storms moving through the area have ignited several small fires.
+                Forest officials and firefighters closely monitor these storms and use a combination
+                of aerial reconnaissance flights, fire engines patrols, and reports of fire activity
+                from the public in order to respond quickly and determine potential growth activity
+                of the fires and develop appropriate response activity. Reconnaissance flights are
+                part of our normal operating plan after lightning storms.Below we have listed each
+                fire by the time the fire was reported, the name given to the fire, the approximate
+                location and estimated fire size (if known) and current status. Any large fires will
+                have a new &quot;incident&quot; page started in InciWeb. South Fork Management Unit
+                (Hayfork and Platina area) 08/09/2019 19:56, PINE, W of Brushy Mtn, 0.25, acre, Out
+                Trinity River Management Unit (Weaverville, Big Bar, Trinity Lake, Trinity Alps)
+                08/10/2019 19:11, MONTGOMERY, Montgomery Ridge near Hwy 3 0.1 acre, Out 08/10/2019
+                07:21,...
+            </description>
+        </item>
+        <item>
+            <title>Springs Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 13:54:03 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 13:54:03 -05:00</pubDate>
+            <georss:point>37.825833333333 -118.87222222222</georss:point>
+            <geo:lat>37.825833333333</geo:lat>
+            <geo:long>-118.87222222222</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6477/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6477/</guid>
+            <description>Springs Fire Update 8-15-19 Current Situation: The Springs Fire is being
+                managed with a strategy to reintroduce fire into the landscape in its’ natural role.
+                Overnight firefighters continued to prep and strategically apply fire to the
+                landscape to further secure the fire to containment lines. Last night an Unmanned
+                Aircraft System (UAS), commonly referred to as a drone was used in firing
+                operations. Smoke is expected to be variable and depends on the daily winds. From
+                evening into early morning smoke may drain into the Long Valley area, potentially
+                impacting the community of Crowley Lake. As winds shift late morning into early
+                afternoon the smoke will begin dispersing towards Mammoth Lakes, Devils Postpile,
+                June Lake, and Lee Vining. Benton may expect lighter smoke later in the afternoons
+                as winds are expected to shift out of the southwest. The latest daily air quality
+                forecasts and site by site details can be found at-
+                https://fires.airfire.org/outlooks/InyoNationalForest The...
+            </description>
+        </item>
+        <item>
+            <title>Frehner Canyon (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 13:38:34 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 13:38:34 -05:00</pubDate>
+            <georss:point>36.821388888889 -113.88416666667</georss:point>
+            <geo:lat>36.821388888889</geo:lat>
+            <geo:long>-113.88416666667</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6512/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6512/</guid>
+            <description>August 15 update: The Frehner Canyon Fire is 100% contained and in patrol
+            </description>
+        </item>
+        <item>
+            <title>Main Street (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 13:37:30 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 13:37:30 -05:00</pubDate>
+            <georss:point>36.741666666667 -113.48694444444</georss:point>
+            <geo:lat>36.741666666667</geo:lat>
+            <geo:long>-113.48694444444</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6513/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6513/</guid>
+            <description>August 15 update: Main Street Fire is 100% contained and in patrol
+            </description>
+        </item>
+        <item>
+            <title>Hurricane Cliffs Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 13:36:13 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 13:36:13 -05:00</pubDate>
+            <georss:point>36.585277777778 -113.29611111111</georss:point>
+            <geo:lat>36.585277777778</geo:lat>
+            <geo:long>-113.29611111111</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6472/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6472/</guid>
+            <description>Update August 15, 2019. The fire is contained and</description>
+        </item>
+        <item>
+            <title>Cove Creek Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 13:17:44 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 13:17:44 -05:00</pubDate>
+            <georss:point>45.328055555556 -114.45277777778</georss:point>
+            <geo:lat>45.328055555556</geo:lat>
+            <geo:long>-114.45277777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6495/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6495/</guid>
+            <description>Crews continue to patrol and mop-up the fire’s edge and clean-up
+                equipment.
+            </description>
+        </item>
+        <item>
+            <title>Saber Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 12:57:11 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 12:57:11 -05:00</pubDate>
+            <georss:point>35.010555555556 -111.90138888889</georss:point>
+            <geo:lat>35.010555555556</geo:lat>
+            <geo:long>-111.90138888889</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6519/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6519/</guid>
+            <description>The lightning-caused Saber Fire was reported by Turkey Butte Lookout on
+                Aug. 2, 2019 and has grown to 95 acres. The fire is located 1.5 miles south of
+                Turkey Butte Lookout and 12 miles northwest of Sedona. Fire managers on the Coconino
+                National Forest have determined that the fire will benefit the ecosystem as it moves
+                across the landscape naturally consuming dense forest fuels.
+            </description>
+        </item>
+        <item>
+            <title>Ikes Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 12:49:41 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 12:49:41 -05:00</pubDate>
+            <georss:point>36.348611111111 -112.28527777778</georss:point>
+            <geo:lat>36.348611111111</geo:lat>
+            <geo:long>-112.28527777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6475/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6475/</guid>
+            <description>Wildland Fire in Grand Canyon National Park: The lightning-caused fire is
+                being utilized to fulfill its natural role in a fire-dependent ecosystem within a
+                defined planning area of 8,000 acres on the Kaibab Plateau. The fire is being
+                utilized to achieve a variety of resource objectives including reducing hazardous
+                fuels, promoting forest regeneration, improving wildlife habitat, and restoring more
+                open forest understory with grasses and forbs. Each fire start within the National
+                Park is evaluated by fire management officials for the most appropriate management
+                strategy. Firefighter safety, resources at risk, location of the fire, available
+                resources, regional and national preparedness levels, and weather forecast are taken
+                into consideration when responding to a wildfire ignition. Location and Cause: The
+                Ikes Fire, which started on July 25, is a lighting caused fire located approximately
+                three miles east of Swamp Point in Grand Canyon National Park North Rim.Current
+                Conditions:...
+            </description>
+        </item>
+        <item>
+            <title>Crab Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 12:37:10 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 12:37:10 -05:00</pubDate>
+            <georss:point>46.501388888889 -114.57444444444</georss:point>
+            <geo:lat>46.501388888889</geo:lat>
+            <geo:long>-114.57444444444</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6467/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6467/</guid>
+            <description>The Lochsa-Powell Ranger District of the Nez Perce-Clearwater National
+                Forests is managing the lightning-caused Crab Fire as a full-suppression fire.
+                Reported at 10:25 on July 26, the fire is located approximately 6 miles east of the
+                Powell Ranger Station. The fire does not pose a near term risk to communities.
+                Currently, the only values immediately threatened by the fire are timber values.
+                After closely evaluating excellent efforts by the responding smokejumpers and
+                aircraft, and considering the probability for success of the long-term work required
+                to fully extinguish this fire, the decision was made on Saturday, July 27th, to
+                disengage from direct suppression tactics on the fire. Fire managers decided to
+                implement indirect suppression tactics using trails and roads and natural features
+                such as ridges and streams as fire lines. Heavy equipment was brought in to
+                reinforce these strategic lines. This will limit exposure and risk to firefighters
+                and will provide a high probability of...
+            </description>
+        </item>
+        <item>
+            <title>Rawhide Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 11:39:58 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 11:39:58 -05:00</pubDate>
+            <georss:point>32.321388888889 -104.78555555556</georss:point>
+            <geo:lat>32.321388888889</geo:lat>
+            <geo:long>-104.78555555556</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6518/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6518/</guid>
+            <description>The lightning-caused Rawhide Fire on the Guadalupe Ranger District of the
+                Lincoln National Forest has been allowed to grow to 2500 acres within the
+                21,500-acre planning area to fulfill its essential role of reducing forest fuels and
+                improve overall ecosystem health. Favorable conditions, including light winds and
+                precipitation in areas adjacent to the fire, have resulted in a low-intensity fire
+                that is moving along the forest floor. The Rawhide Fire started near Rawhide Canyon
+                about five miles northwest of Sitting Bull Falls and is burning in mostly grass,
+                shrubs and some juniper trees. Burnout operations are planned, as conditions allow,
+                over the next three days, which may result in smoke being visible from Carlsbad and
+                Queen, NM.
+            </description>
+        </item>
+        <item>
+            <title>Castle Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 11:24:38 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 11:24:38 -05:00</pubDate>
+            <georss:point>36.531111111111 -112.22805555556</georss:point>
+            <geo:lat>36.531111111111</geo:lat>
+            <geo:long>-112.22805555556</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6439/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6439/</guid>
+            <description>The Kaibab National Forest plans to allow the lightning-caused Castle Fire
+                to continue growing within a defined area in order to fulfill its natural role of
+                reducing dense forest fuels and improving overall ecosystem health. Patrolling and
+                monitoring the fire as well as removing hazard trees is the current plan.The
+                wildfire, which was discovered July 12, is located about 11 miles south of Jacob
+                Lake, 3 miles west of Highway 67, and just east of Forest Road 761 near Oquer Canyon
+                on the North Kaibab Ranger District of the Kaibab National Forest. The Castle Fire
+                is burning in an area with dense mixed conifer, heavy fuel loading, and a
+                significant amount of dead and down trees. Allowing the fire to act as a natural
+                disturbance process in the ecosystem will help meet a variety of resource objectives
+                including restoring the forest structure to more historic conditions, reducing
+                spruce and fir encroachment of area meadows, removing fuels that could feed future
+                severe wildfires, and...
+            </description>
+        </item>
+        <item>
+            <title>Beeskove Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 10:56:28 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 10:56:28 -05:00</pubDate>
+            <georss:point>46.962222222222 -113.8675</georss:point>
+            <geo:lat>46.962222222222</geo:lat>
+            <geo:long>-113.8675</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6458/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6458/</guid>
+            <description>The lightning-caused Beeskove Fire was detected on Tuesday morning, July
+                23, 2019. The fire is burning in a remote location five miles northeast of the main
+                Rattlesnake Trailhead within the Rattlesnake National Recreation Area. The terrain
+                is interspersed with steep rocky slopes, rugged terrain and forested areas absent of
+                a past fire history so the forest floor is laden with downed and dead fuels.
+                Firefighters are attacking this fire under a full suppression strategy utilizing
+                indirect tactics due to inaccessibility and high-risk conditions. Indirect control
+                lines are under construction in order to protect surrounding communities and other
+                values at risk. Management of the fire is under Joe Sampson’s Type 2 Incident
+                Management Team. Missoula County, will you get emergency alerts when you need them?
+                Missoula County Office of Emergency Management uses Smart911 to inform citizens of
+                emergency alerts including fires, missing children, evacuations and more. For more
+                informaton please...
+            </description>
+        </item>
+        <item>
+            <title>Poison Canyon Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 10:47:53 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 10:47:53 -05:00</pubDate>
+            <georss:point>37.834444444444 -109.79944444444</georss:point>
+            <geo:lat>37.834444444444</geo:lat>
+            <geo:long>-109.79944444444</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6471/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6471/</guid>
+            <description>Lightning caused fire 23 miles west of Monticello, Utah on the Monticello
+                District of the Manti-La Sal National Forest. Fire is burning on a mesa top in
+                Ponderosa Pine litter and dead and down fuels. Aspen, oak brush and grass are
+            </description>
+        </item>
+        <item>
+            <title>Peavine Canyon Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 10:46:12 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 10:46:12 -05:00</pubDate>
+            <georss:point>37.723333333333 -109.85722222222</georss:point>
+            <geo:lat>37.723333333333</geo:lat>
+            <geo:long>-109.85722222222</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6452/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6452/</guid>
+            <description>Discovery: July 16 1720 hoursCause: Lightning Initial Size reported: 3
+                acresLocation: 22 miles west of Blanding, UT in Peavine Canyon in the Dark Canyon
+                Wilderness area of the Manti-La Sal NFBurning in subalpine fire and ponderosa with
+                an understory of manzanita and oak brush. Occasional group and single tree torching.
+                Creeping and smoldering in ground fuel.
+            </description>
+        </item>
+        <item>
+            <title>Chippean Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 10:44:43 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 10:44:43 -05:00</pubDate>
+            <georss:point>37.831111111111 -109.65</georss:point>
+            <geo:lat>37.831111111111</geo:lat>
+            <geo:long>-109.65</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6510/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6510/</guid>
+            <description>Lightning caused fire 16 miles northwest of Blanding, Utah on the
+                Monticello Ranger District of the Manti-La Sal National Forest. Fire is burning in
+                steep terrain with ponderosa pine litter and understory with manzanita brush
+            </description>
+        </item>
+        <item>
+            <title>Ward Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 10:29:21 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 10:29:21 -05:00</pubDate>
+            <georss:point>42.0325 -122.17527777778</georss:point>
+            <geo:lat>42.0325</geo:lat>
+            <geo:long>-122.17527777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6516/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6516/</guid>
+            <description>The Ward Fire started early afternoon August 9th, 2019 when a lightning
+                storm came through the area. The fire instantly started running and spotting, aided
+                by topography and winds. Crews from ODF and BLM along with Green Diamond timber
+                company responded rapidly. Due to the favorable weather and quick action on the part
+                of the cooperators good progress is being made. Cooperators include Klamath-Lake
+                Distirct - Oregon Department of Forestry, Klamath Falls Resource Area, Lakeview
+                District BLM, Green Diamond Resource Company and Klamath County Fire
+                DepartmentOregon Department of Forestry Type 1 IMT 2 (Chris Cline, Incident
+                Commander) assumed command at 6pm August 10,
+            </description>
+        </item>
+        <item>
+            <title>Horsefly Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 10:04:22 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 10:04:22 -05:00</pubDate>
+            <georss:point>46.963055555556 -112.44083333333</georss:point>
+            <geo:lat>46.963055555556</geo:lat>
+            <geo:long>-112.44083333333</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6502/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6502/</guid>
+            <description>Shane Martin's Central Montana Type 3 Incident Management Team assumed
+                command of the Horsefly Fire at 6:00 a.m. on Tuesday, August 13,
+            </description>
+        </item>
+        <item>
+            <title>Boulin Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 09:57:50 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 09:57:50 -05:00</pubDate>
+            <georss:point>35.392777777778 -112.01083333333</georss:point>
+            <geo:lat>35.392777777778</geo:lat>
+            <geo:long>-112.01083333333</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6511/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6511/</guid>
+            <description>The Boulin Fire, discovered on August 6, was caused by lightning and has
+                grown to approximately 1155 acres. It is located near the junction of forest roads
+                141 and 713 approximately 9 miles north of Interstate 40 at the northwest corner of
+                Spring Valley.Managers will use multiple strategies that will ultimately contain
+                this fire within a defined planning area of approximately 4200 acres. Fire will be
+                allowed to move towards designated roads that serve as safe and effective control
+                features. Fire activity may fluctuate periodically as daily weather conditions
+                influence fire behavior and spread. Operations have been successful in meeting
+                multiple objectives and all containment lines are holding with no control problems
+                occurring. Fire behavior continues to burn with a low to moderate intensity backing
+                through grasses and ponderosa pine litter consuming dead and down fuels. Crews
+                periodically ignite the edges of the containment lines to stay aligned with the
+                fires natural...
+            </description>
+        </item>
+        <item>
+            <title>Nethker Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 09:11:04 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 09:11:04 -05:00</pubDate>
+            <georss:point>45.245555555556 -115.93</georss:point>
+            <geo:lat>45.245555555556</geo:lat>
+            <geo:long>-115.93</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6496/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6496/</guid>
+            <description>UPDATE, August 15, 2019: The Nethker Fire is now 68 percent contained as
+                crews continue to make progress in the northern area of the fire.Some islands of
+                previously unburned vegetation inside the fire perimeter burned yesterday, leading
+                to a small increase in the size of the fire to 2,351 acres. The Warren Wagon Road is
+                open to the public, however, the French Creek/Burgdorf Road remains closed. With
+                increased weekend traffic, please drive with caution. Firefighters and their
+                vehicles will be working in the area. Smoke will be visible along the road and
+                within the interior of containment lines. These areas have been secured and
+                firefighters will continue to extinguish them. Firefighters have moved into the
+                mop-up stages of securing the fireline on the southern end of the Nethker Fire,
+                looking for hot spots and putting them out. Part of this work will also include
+                repairing suppression lines to help mitigate the impact of firefighting efforts. The
+                Nethker Fire was started by lightning...
+            </description>
+        </item>
+        <item>
+            <title>Shady Fire (Wildfire)</title>
+            <published>Thu, 15 Aug 2019 08:30:22 -05:00</published>
+            <pubDate>Thu, 15 Aug 2019 08:30:22 -05:00</pubDate>
+            <georss:point>44.516944444444 -115.01888888889</georss:point>
+            <geo:lat>44.516944444444</geo:lat>
+            <geo:long>-115.01888888889</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6433/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6433/</guid>
+            <description>Fire activity is minimal at this time.The lightning caused Shady Fire was
+                reported the evening of July 10. The fire is located approximately two (2) miles
+                east of Seafoam Guard Station in the Frank Church River of No Return Wilderness on
+                the Middle Fork Ranger District. Due to heavy fuel loading, active fire behavior,
+                and the presence of numerous snags, firefighters have been unable to directly engage
+                the fire. The Shady Fire is being managed with a point protection strategy (a
+                wildfire response strategy, which protects specific assets or highly valued
+                resources from the wildfire without directly halting the continued spread of the
+                wildfire) to minimize exposure to fire personnel while protecting identified values.
+                The strategy takes in to account exposure to firefighters, values at risk, impacts
+                to area user groups, and wilderness values. Firefighters are monitoring fire
+                progression towards values, with the priority of fire mangers being to provide for
+                firefighter and public safety...
+            </description>
+        </item>
+        <item>
+            <title>Devore Creek Fire (Wildfire)</title>
+            <published>Wed, 14 Aug 2019 17:32:27 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 17:32:27 -05:00</pubDate>
+            <georss:point>48.258055555556 -120.71555555556</georss:point>
+            <geo:lat>48.258055555556</geo:lat>
+            <geo:long>-120.71555555556</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6463/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6463/</guid>
+            <description>Lightning-Ignited Fire Burning in the Wilderness This Devore Creek Fire is
+                burning entirely within the Glacier Peak Wilderness, between 5,700 – 6,800 feet of
+                elevation. Lightning storms came through the area on July 23 and 24, 2019. The fire
+                was reported on July 26 and first observed at by aerial reconnaissance at five
+                acres. Rapellers arrived within two hours of the initial report and the fire had
+                grown to approximately 75 acres. They could not safety engage the fire directly due
+                to its size, the extremely steep terrain, and the amount of fuel available to burn.
+                Fire Expected to Burn Until a Season Ending Weather Event The fire has seen minimal
+                growth in recent days, but due to the fire’s remote location and the heavy fuels
+                it’s burning in, the fire will be on the landscape for the rest of the season. Days
+                are getting shorter and the chances of active fire growth are diminishing but the
+                fire could come back to life with an extended warming and drying trend. There may
+                still be...
+            </description>
+        </item>
+        <item>
+            <title>Hess Creek Fire (Wildfire)</title>
+            <published>Wed, 14 Aug 2019 17:28:09 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 17:28:09 -05:00</pubDate>
+            <georss:point>65.699166666667 -148.35916666667</georss:point>
+            <geo:lat>65.699166666667</geo:lat>
+            <geo:long>-148.35916666667</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6404/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6404/</guid>
+            <description>The Hess Creek Fire started June 21, 2019 by lightning moving through the
+                area. It quickly spread through the dry black spruce. Total acreage as of July 30
+                was 189,369 acres.A complete demobilization of personnel and equipment from the fire
+                occurred on Aug. 9. The fire will be monitored through the rest of the season.
+                Minimal fire growth is expected but remains possible if warm and dry weather
+                returns. If this occurs, some activity and smoke may be visible around mile 61-62 of
+                the Elliott Highway. However, this activity will likely not impact the highway or be
+                much of a concern. The fire burned underground in many areas of the tundra, into
+                deep duff and through tree root systems. Fire weakened trees can fall with very
+                little wind. White ash on the ground may indicate deep pockets of hot ash where
+                roots and ground vegetation have burned and may continue to burn below ground level.
+                Severe burns may occur by stepping or falling into these pockets of hot ash. Walking
+                through burned areas...
+            </description>
+        </item>
+        <item>
+            <title>2019 Umatilla NF Prescribed Fire (Prescribed Fire)</title>
+            <published>Wed, 14 Aug 2019 16:17:10 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 16:17:10 -05:00</pubDate>
+            <georss:point>45.67 -118.87</georss:point>
+            <geo:lat>45.67</geo:lat>
+            <geo:long>-118.87</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/5808/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/5808/</guid>
+            <description>The Umatilla National Forest prescribed fire page contains information on
+                the Forest's planned, active and completed prescribed burning for 2019. In general,
+                there are two burn seasons each year to accomplish prescribed fire projects. Early
+                season burns typically occur in late winter through the early fire season in late
+                spring/early summer. Late season burns typically occur in late fire season and into
+                December. The specific dates of a burn during a season is dependent on many
+                variables including wildfire activity, resource availability, current and predicted
+                weather, and smoke management constraints. Frequent, low-intensity fire is essential
+                for healthy forests and reducing the risk of uncharacteristic wildfire caused by
+                excessive fuel buildup. Prescribed burning is an effective tool for removing
+                excessive amounts of brush, shrubs, and trees, while also encouraging the growth of
+                native vegetation. NEW! Prescribed Fire Activity Interactive Map (This interactive
+                map will be best...
+            </description>
+        </item>
+        <item>
+            <title>Dixon Fire (Wildfire)</title>
+            <published>Wed, 14 Aug 2019 15:48:10 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 15:48:10 -05:00</pubDate>
+            <georss:point>38.566666666667 -119.73916666667</georss:point>
+            <geo:lat>38.566666666667</geo:lat>
+            <geo:long>-119.73916666667</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6474/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6474/</guid>
+            <description>Humboldt-Toiyabe National Forest fire managers are making use of a
+                lightning-caused fire to meet multiple resource objectives in the Carson-Iceberg
+                Wilderness. The Dixon Fire is located east of Silver Peak on the north side of Dixon
+                Creek and was discovered on July 28 by aerial reconnaissance after storms passed
+                through the area. Fire is a natural occurring component of Sierra Nevada ecosystems,
+                important for both plants and animals. The reason for managing a naturally-occurring
+                wildfire is to allow fire to play its historical role on the landscape. A naturally
+                ignited fire can decrease the threat of future high intensity, high-severity
+                wildfires by reducing hazardous fuel accumulations; reduce the risk of insect and
+                disease outbreak; recycle nutrients that increase soil productivity; and improve
+                wildlife habitat by increasing forbs/forage.The nine-acre Dixon Fire is burning deep
+                in the Wilderness and being managed for the following multiple resource objectives:
+                reducing accumulated...
+            </description>
+        </item>
+        <item>
+            <title>Chalkyitsik Complex (Wildfire)</title>
+            <published>Wed, 14 Aug 2019 14:51:12 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 14:51:12 -05:00</pubDate>
+            <georss:point>66.545555555556 -143.05944444444</georss:point>
+            <geo:lat>66.545555555556</geo:lat>
+            <geo:long>-143.05944444444</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6494/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6494/</guid>
+            <description>General Summary of the Chalkyitsik Complex Incident In mid-July storms
+                passed through the Yukon Flats with thousands of lightning strikes. Drought
+                conditions left the trees and duff layer very dry allowing fires to grow and
+                difficult to contain. The rest of Alaska was also experiencing an extreme fire
+                season and resources were limited. The BLM Alaska Fire Service (AFS) requested the
+                assistance of the Alaska Interagency Incident Management Teams to oversee fires
+                burning east of Chalkyitsik and west of Fort Yukon. The highest priority for fire
+                personnel was to ensure the protection of the Gwich’in village of Chalkyitsik.
+                Resources such as equipment and personnel have completed their missions and have
+                been transported to Fairbanks for release to their home units. Fire managers have
+                built a plan to support a proactive response should fire activity increase in the
+                weeks and months ahead. The BLM AFS will regularly conduct reconnaissance flights to
+                monitor fire activity and possible...
+            </description>
+        </item>
+        <item>
+            <title>Milepost 97 Fire (Wildfire)</title>
+            <published>Wed, 14 Aug 2019 13:30:37 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 13:30:37 -05:00</pubDate>
+            <georss:point>42.913055555556 -123.2675</georss:point>
+            <geo:lat>42.913055555556</geo:lat>
+            <geo:long>-123.2675</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6461/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6461/</guid>
+            <description>The Milepost 97 fire, located about 1 mile southeast of Canyonville was
+                reported Wednesday, July 24th at approximately 10:00 p.m. The fire is burning in
+                steep, rocky terrain with limited access. Currently, the Milepost 97 Fire is burning
+                in an old fire scar that originally burned in 1987. The Oregon Department of
+                Forestry Incident Management Team #3 (IC Smith) has been assigned to the fire to
+                assist the Douglas Forest Protective Association with fire suppression
+            </description>
+        </item>
+        <item>
+            <title>Nevada Creek Fire (Wildfire)</title>
+            <published>Wed, 14 Aug 2019 11:16:32 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 11:16:32 -05:00</pubDate>
+            <georss:point>46.827222222222 -112.56666666667</georss:point>
+            <geo:lat>46.827222222222</geo:lat>
+            <geo:long>-112.56666666667</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6484/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6484/</guid>
+            <description>Mike Almas's Northern Rockies Incident Management Team 3 assumed command of
+                the Nevada Creek Fire at 6:00 p.m. on Friday, August 3, 2019. The Nevada Creek Fire
+                was reported at about 11:30 a.m. on Thursday, August 1, 2019. The fire was ignited
+                by lightning that was part of a thunderstorm that came over the area the night
+                before. Due to technical issues, photos are being shared on the Forest Facebook
+                page: www.facebook.com/HLCNF. The forest, along with some additional resources, is
+                working to completely suppress the fire.
+            </description>
+        </item>
+        <item>
+            <title>Roberts Fire (Wildfire)</title>
+            <published>Wed, 14 Aug 2019 09:12:49 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 09:12:49 -05:00</pubDate>
+            <georss:point>33.61 -107.40611111111</georss:point>
+            <geo:lat>33.61</geo:lat>
+            <geo:long>-107.40611111111</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6441/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6441/</guid>
+            <description>The Roberts Fire, in the Apache Kid Wilderness in the San Mateo Mountains,
+                located on the Magdalena Ranger District, is a lightning caused fire that began July
+                13, 2019. The fire is currently burning in Ponderosa Pine, grass, and brush in steep
+                terrain with limited access. Road and trail use is not advised in the area due to
+                the fire traffic and the proximity of the fire. Smoke will be visible from New
+                Mexico 52, New Mexico 107, and U.S. Highway 60 west of Magdalena, NM and I-25 south
+                of Socorro, NM as fire behavior increases. The fire size is likely to increase
+                throughout the week with district closures likely to be implemented on Forest roads
+                and trails.
+            </description>
+        </item>
+        <item>
+            <title>Tincup Fire (Wildfire)</title>
+            <published>Wed, 14 Aug 2019 08:39:13 -05:00</published>
+            <pubDate>Wed, 14 Aug 2019 08:39:13 -05:00</pubDate>
+            <georss:point>43.003888888889 -111.2875</georss:point>
+            <geo:lat>43.003888888889</geo:lat>
+            <geo:long>-111.2875</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6489/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6489/</guid>
+            <description>The Tincup Fire was discovered on July 30 approximately 30 miles northeast
+                of Soda Springs near the Grays Lake Wildlife Refuge Headquarters. The
+                lightning-caused fire is approximately .5 acres in size and creeping in dead and
+                down fuel with minimal fire activity observed. The fire is slowly spreading towards
+                the northeast. The Caribou-Targhee National Forest is aware of several unique values
+                in the area including private in-holdings, recreation trails, Hwy 34 and range
+                infrastructure. Due to the location of the fire and the observed fire behavior, fire
+                officials feel it important to let the Tincup Fire play its natural role in the
+                ecosystem. The mixed conifer and aspen ecosystem found in southeast Idaho has
+                evolved with and depends on fire. This does not mean the fire will burn without
+                human intervention. Active measures will occur to create fuel breaks on forest
+                service lands between public and private lands to prevent fire spread onto private
+                lands. Should fire activity increase or...
+            </description>
+        </item>
+        <item>
+            <title>Goose Fire (Wildfire)</title>
+            <published>Tue, 13 Aug 2019 22:32:35 -05:00</published>
+            <pubDate>Tue, 13 Aug 2019 22:32:35 -05:00</pubDate>
+            <georss:point>41.937222222222 -114.16583333333</georss:point>
+            <geo:lat>41.937222222222</geo:lat>
+            <geo:long>-114.16583333333</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6503/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6503/</guid>
+            <description>This is the final 209, this fire will be called controlled</description>
+        </item>
+        <item>
+            <title>HK Complex (Wildfire)</title>
+            <published>Tue, 13 Aug 2019 22:25:26 -05:00</published>
+            <pubDate>Tue, 13 Aug 2019 22:25:26 -05:00</pubDate>
+            <georss:point>45.045277777778 -119.4625</georss:point>
+            <geo:lat>45.045277777778</geo:lat>
+            <geo:long>-119.4625</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6507/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6507/</guid>
+            <description>The HK Complex is a combination of 14 lightning fires that were reported on
+                Aug.5, 2019 following a lightning storm on the Forest. The fires are located near
+                the Alder Creek Skookum Trailhead, approximately two miles east of Tupper Guard
+                Station. The fire is burning in grass, brush and timber. Firefighters and aerial
+                resources were promptly dispatched to the fires, however strong evening winds
+                produced rapid fire growth, causing some of the fires to grow together and
+                increasing the overall fire size to approximately 2,455 acres. A Type 2 Incident
+                Management Team took command of the fire at 6 a.m. on Aug. 8, 2019.
+            </description>
+        </item>
+        <item>
+            <title>Swan Lake Fire (Wildfire)</title>
+            <published>Tue, 13 Aug 2019 20:20:12 -05:00</published>
+            <pubDate>Tue, 13 Aug 2019 20:20:12 -05:00</pubDate>
+            <georss:point>60.630555555556 -150.43777777778</georss:point>
+            <geo:lat>60.630555555556</geo:lat>
+            <geo:long>-150.43777777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6387/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6387/</guid>
+            <description>Swan Lake Fire History On June 5, 2019, the Swan Lake Fire was ignited by
+                lightning in a remote area of the Kenai National Wildlife Refuge Wilderness. It was
+                reported at 4 to 5 acres, one of 11 fires reported June 5 and 6. It was in the
+                Limited Protection zone and put in monitor status.By June 10, the fire had grown to
+                over 2,500 acres. A local Type 3 Incident Management Team (IMT) assumed command of
+                the fire. The community of Sterling and the Enstar Natural Gas pipeline were
+                determined to be values at risk. On June 12, the fire reached the identified MAPs
+                and the strategic operations plan was implemented. Two crews were ordered and the
+                Type 3 IMT was expanded. By June 16, the fire had grown to over 12,700 acres. Over
+                110 personnel were assigned to the fire. A Temporary Flight Restriction (TFR) was
+                issued for the fire vicinity to protect aircraft working on the fire. A Type 2 IMT
+                was ordered. On June 17, crews began burnout operations along the indirect line east
+                of the East Fork...
+            </description>
+        </item>
+        <item>
+            <title>Granite Gulch Fire (Wildfire)</title>
+            <published>Tue, 13 Aug 2019 18:15:40 -05:00</published>
+            <pubDate>Tue, 13 Aug 2019 18:15:40 -05:00</pubDate>
+            <georss:point>45.178055555556 -117.42694444444</georss:point>
+            <geo:lat>45.178055555556</geo:lat>
+            <geo:long>-117.42694444444</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6498/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6498/</guid>
+            <description>OverviewThe Granite Gulch fire was ignited by lightning during a storm that
+                rolled through the area on July 14th. It went unnoticed until Sunday July 28th when
+                it was reported by hikers. Fire personnel were sent in to monitor and record fire
+                behavior, weather, and fuel moisture to aid in modeling the fire spread potential
+                over the coming months, the peak of fire season in the Northwest. On July 29th, the
+                size was estimated at 25 acres.
+            </description>
+        </item>
+        <item>
+            <title>Cheat Summit Fort Burn Piles (Prescribed Fire)</title>
+            <published>Tue, 13 Aug 2019 16:20:04 -05:00</published>
+            <pubDate>Tue, 13 Aug 2019 16:20:04 -05:00</pubDate>
+            <georss:point>38.622222222222 -79.879166666667</georss:point>
+            <geo:lat>38.622222222222</geo:lat>
+            <geo:long>-79.879166666667</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6517/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6517/</guid>
+            <description>August 12, 1545: Burning operation were completed at 1545, and the site is
+                being monitored. August 12, 1200: At noon Monday, August 12, fire staff is burning
+                four wood debris piles on two acres at Cheat Summit Fort in Randolph County. Smoke
+                may be visible in the area.
+            </description>
+        </item>
+        <item>
+            <title>Mill Fire (Wildfire)</title>
+            <published>Tue, 13 Aug 2019 11:27:18 -05:00</published>
+            <pubDate>Tue, 13 Aug 2019 11:27:18 -05:00</pubDate>
+            <georss:point>36.009166666667 -121.46722222222</georss:point>
+            <geo:lat>36.009166666667</geo:lat>
+            <geo:long>-121.46722222222</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6478/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6478/</guid>
+            <description>The Mill Fire was reported at 5:36 a.m. on July 30, 2019, on Mill Creek,
+                off of the Nacimiento-Ferguson Road and north-west of the Ventana Wilderness. It was
+                held at approximately 310 acres and fully contained as of August 12 at 6 pm. A
+                Forest Closure Order issued for the Nacimiento Ferguson Road from Highway 1 to the
+                Forest Boundary at Fort Hunter Liggett; the Kirk Creek Trail from Highway 1 to Cone
+                Peak Road; and the Mill Creek Trail at the junction of Nacimiento Ferguson Road to
+                South Coast Ridge Road has been lifted. Cone Peak Road from the junction of
+                Nacimiento Ferguson Road to Cone Peak and South Coast Ridge Road from the junction
+                of Nacimiento Ferguson Road to Chalk Peak remains closed. There is currently one
+                engine crew assigned to the fire. Evacuations: There are currently no evacuations
+                orders in effect for the Mill Fire. However, California’s wildfire season is just
+                beginning. Please visit https://www.readyforwildfire.org to learn preparedness
+                information that will...
+            </description>
+        </item>
+        <item>
+            <title>Corta Fire (Wildfire)</title>
+            <published>Tue, 13 Aug 2019 00:32:58 -05:00</published>
+            <pubDate>Tue, 13 Aug 2019 00:32:58 -05:00</pubDate>
+            <georss:point>40.311944444444 -115.61888888889</georss:point>
+            <geo:lat>40.311944444444</geo:lat>
+            <geo:long>-115.61888888889</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6501/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6501/</guid>
+            <description>The 16,000 acre lightning caused Corta Fire is located approximately 8
+                miles southeast of Jiggs,
+            </description>
+        </item>
+        <item>
+            <title>June Lightning 2019 (Wildfire)</title>
+            <published>Mon, 12 Aug 2019 17:49:23 -05:00</published>
+            <pubDate>Mon, 12 Aug 2019 17:49:23 -05:00</pubDate>
+            <georss:point>36.064444444444 -118.18527777778</georss:point>
+            <geo:lat>36.064444444444</geo:lat>
+            <geo:long>-118.18527777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6396/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6396/</guid>
+            <description>Patrol status Kernville, Ca. Update - Lightning Fires: Kern Plateau
+                originating June 17th from a thunder storm. The fires are located in the South
+                Sierra Wilderness, in extremely steep, rocky terrain, thus proving to be difficult
+                to access for personnel. Fires have been dropped to a Type 5 incident and camp at
+                Troy Overflow has been wrapped up.Both the Bald and Lost fires are now in patrol
+                status. Firefighters did an excellent job of meeting goals, and utilizing MIST
+                tactics in the Wilderness.
+            </description>
+        </item>
+        <item>
+            <title>San Juan NF Prescribed Fire Program (Prescribed Fire)</title>
+            <published>Mon, 12 Aug 2019 16:24:35 -05:00</published>
+            <pubDate>Mon, 12 Aug 2019 16:24:35 -05:00</pubDate>
+            <georss:point>37.278888888889 -107.88222222222</georss:point>
+            <geo:lat>37.278888888889</geo:lat>
+            <geo:long>-107.88222222222</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6288/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6288/</guid>
+            <description>The Fall prescribed fire program will be kicking off in mid-August. Stay
+                tuned for more
+            </description>
+        </item>
+        <item>
+            <title>Museum Fire (Wildfire)</title>
+            <published>Mon, 12 Aug 2019 12:28:05 -05:00</published>
+            <pubDate>Mon, 12 Aug 2019 12:28:05 -05:00</pubDate>
+            <georss:point>35.263055555556 -111.63861111111</georss:point>
+            <geo:lat>35.263055555556</geo:lat>
+            <geo:long>-111.63861111111</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6450/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6450/</guid>
+            <description>The museum fire is 100% contained and in &quot;Patrol Status&quot; with one
+                engine
+            </description>
+        </item>
+        <item>
+            <title>Verde Fire (Wildfire)</title>
+            <published>Mon, 12 Aug 2019 10:26:44 -05:00</published>
+            <pubDate>Mon, 12 Aug 2019 10:26:44 -05:00</pubDate>
+            <georss:point>33.729166666667 -111.59472222222</georss:point>
+            <geo:lat>33.729166666667</geo:lat>
+            <geo:long>-111.59472222222</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6506/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6506/</guid>
+            <description>The area closure for the Verde Fire was lifted August 10 at 7:00am.The
+                lightning caused Verde Fire was reported on Saturday, August 3rd after thunderstorms
+                passed through the area. The fire is burning on the east side of the Verde River,
+                near Black Mesa, approximately two miles northeast of Fort McDowell Reservation
+                lands, and four miles east of the community of Rio Verde. The fire is burning in
+                grass and brush in a remote area with limited road access for fire
+            </description>
+        </item>
+        <item>
+            <title>North Hills Fire (Wildfire)</title>
+            <published>Sun, 11 Aug 2019 21:40:33 -05:00</published>
+            <pubDate>Sun, 11 Aug 2019 21:40:33 -05:00</pubDate>
+            <georss:point>46.750555555556 -111.95222222222</georss:point>
+            <geo:lat>46.750555555556</geo:lat>
+            <geo:long>-111.95222222222</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6464/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6464/</guid>
+            <description>The North Hills Fire is 100% contained and on patrol. A significant
+                thundershower occurred over the fire area. There is potential for flash floods and
+                debris flow in the burn scar. https://www.lccountymt.gov/des.html Occasional smoke
+                and/or dust devils may be visible in the future. The North Hills Fire will continue
+                to be
+            </description>
+        </item>
+        <item>
+            <title>Lick Creek Fire (Wildfire)</title>
+            <published>Sun, 11 Aug 2019 14:34:48 -05:00</published>
+            <pubDate>Sun, 11 Aug 2019 14:34:48 -05:00</pubDate>
+            <georss:point>47.161944444444 -115.89972222222</georss:point>
+            <geo:lat>47.161944444444</geo:lat>
+            <geo:long>-115.89972222222</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6491/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6491/</guid>
+            <description>The Lick Creek Fire was discovered on August 2 at 50 acres. The fire is
+                located in the Lick Creek drainage, 6 miles SW from Avery, Idaho. With more accurate
+                mapping, the fire has been determined at 200 acres, burning primarily on
+                Potlatch-Deltic Corporation Land at around 90% and partially on Forest Service Land
+                10%. The fire is burning in heavy logging slash and timber. Priority on the fire is
+                to protect the safety of fire personnel and human life followed by the protection of
+                private property, reduce impacts to Potlatch-Deltic grounds and confine fire to the
+                existing box that was created by retardant drops. Full suppression tactics will be
+                used to safely, effectively and efficiently reduce the spread of the fire. As of
+                August 10, 2019 the fire is 100% contained and expected to have minimal creeping and
+                smoldering within the fire parameter. The North Idaho Type 3 Team plans to transfer
+                back command to the District on August 11, 2019. Local resources plan to continue to
+                patrol,...
+            </description>
+        </item>
+        <item>
+            <title>Green Springs Fire (Wildfire)</title>
+            <published>Sun, 11 Aug 2019 00:08:59 -05:00</published>
+            <pubDate>Sun, 11 Aug 2019 00:08:59 -05:00</pubDate>
+            <georss:point>38.948888888889 -117.72833333333</georss:point>
+            <geo:lat>38.948888888889</geo:lat>
+            <geo:long>-117.72833333333</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6508/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6508/</guid>
+            <description>The Green Springs Fire is burning in pinyon and juniper in the Green
+                Springs area of the Paradise Range. It is located east of Gabbs, Nevada and north of
+                Nevada State Route 841.
+            </description>
+        </item>
+        <item>
+            <title>IPNF Backcountry Prescribed Fire 2019 (Prescribed Fire)</title>
+            <published>Sat, 10 Aug 2019 13:44:25 -05:00</published>
+            <pubDate>Sat, 10 Aug 2019 13:44:25 -05:00</pubDate>
+            <georss:point>47.841666666667 -116.25138888889</georss:point>
+            <geo:lat>47.841666666667</geo:lat>
+            <geo:long>-116.25138888889</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6476/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6476/</guid>
+            <description>&amp;#183;At this time there are no active prescribed fire operations.
+                Information will be clearly posted when ignitions occur. Prescribed burning is part
+                of the USDA Forest Service natural resources management program. Areas described as
+                Backcountry Managements Areas in the Idaho Panhandle National Forests (IPNF) Land
+                Management Plan (Forest Plan) need treated in order to reduce hazardous fuels,
+                improve wildlife habitat, and to establish and maintain a resilient forest
+                structure. Fire serves as one of the best management activities in the backcountry.
+                Approximately 92 percent of Backcountry Management Areas are within Inventoried
+                Roadless Areas, which are not suitable for timber harvest, making prescribed fire
+                the best tool to improve forest conditions. Prescribed fire objectives are more
+                likely to be achieved with more summer-like conditions within these high elevation
+                areas, especially during a moderate fire season. Please see map for areas of
+                potential implementation areas. More...
+            </description>
+        </item>
+        <item>
+            <title>Barren Hill Fire (Wildfire)</title>
+            <published>Fri, 09 Aug 2019 19:00:11 -05:00</published>
+            <pubDate>Fri, 09 Aug 2019 19:00:11 -05:00</pubDate>
+            <georss:point>46.236944444444 -114.98277777778</georss:point>
+            <geo:lat>46.236944444444</geo:lat>
+            <geo:long>-114.98277777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6468/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6468/</guid>
+            <description>The Moose Creek Ranger District of the Nez Perce-Clearwater National
+                Forests is managing the lightning-caused Barren Hill Fire for wilderness and
+                resource objectives. Reported at 12:50 on July 1, the fire is located approximately
+                17 miles SW of the Powell Ranger Station in the Selway-Bitterroot Wilderness Area.
+                The fire does not pose a risk to communities or other values such as timber
+                resources or human improvements. Fire behavior over the month has varied greatly.
+                Some days a low-intensity fire slowly burned on the forest floor with other days
+                seeing much greater activity including significant surface fire, single and group
+                tree torching and some short uphill runs. All aspects have seen some fire with
+                different responses due to the variances in vegetation and fuel moistures.Trail
+                closures are in effect for the area, including the Barren Hill, Barren Creek,
+                Wounded Doe Licks, North Moose and the North Fork Moose trails. See the “Closures”
+                section on the top of the page. It is...
+            </description>
+        </item>
+        <item>
+            <title>Wagon Mountain Fire (Wildfire)</title>
+            <published>Fri, 09 Aug 2019 16:54:27 -05:00</published>
+            <pubDate>Fri, 09 Aug 2019 16:54:27 -05:00</pubDate>
+            <georss:point>46.658888888889 -114.56333333333</georss:point>
+            <geo:lat>46.658888888889</geo:lat>
+            <geo:long>-114.56333333333</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6505/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6505/</guid>
+            <description>Wagon Mountain Fire, Missoula Ranger District Location: Located on top of
+                Wagon Mountain, approximately 2 miles northeast of Lolo Pass Visitor Center and east
+                of Highway 12. Not to be confused with the Wagon Mountain Road between Graves Creek
+                and Fish Creek Roads on the west side of Highway 12. Status: The Wagon Mountain Fire
+                was detected on Aug. 5, 2019 at approximately 2:30 p.m. by aircraft responding to
+                the West Fork Lolo 2 Fire. The fire is burning in a previously logged area in new
+                regeneration and also in mature spruce and mixed conifer. The fire is currently
+                staffed as a Type 4 incident. Containment: 100% reached on 8/8/19 at 6:30 p.m.
+                Structures or other values at risk: None at this time. No evacuations are in effect
+                at this time.
+            </description>
+        </item>
+        <item>
+            <title>Woodbury Fire (Wildfire)</title>
+            <published>Fri, 09 Aug 2019 15:36:32 -05:00</published>
+            <pubDate>Fri, 09 Aug 2019 15:36:32 -05:00</pubDate>
+            <georss:point>33.409444444444 -111.19916666667</georss:point>
+            <geo:lat>33.409444444444</geo:lat>
+            <geo:long>-111.19916666667</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6382/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6382/</guid>
+            <description>The Woodbury is now 100% controlled. State Route 88 Closure: Because of the
+                potential for severe flooding from areas burned in the Woodbury Fire, a 7-mile,
+                unpaved section of State Route 88 (Apache Trail) will remain closed from an area
+                several miles east of Tortilla Flat to just west of the Apache Lake marina turnoff
+                while the Arizona Department of Transportation continues assessing conditions. All
+                inquiries in regards to the closure on State Route 88 (Apache Trail Historic Road)
+                should be directed to ADOT. You can submit questions to ADOT by online form or phone
+                by visiting https://azdot.gov/contact. Tortilla Flat business remain open.
+                Additional information regarding the highway closure can be found at:
+                https://azdot.gov/media/News/news-release/2019/07/29/seven-mile-stretch-of-sr-88-remains-closed-due-to-flooding-risk
+                Forest Closure: For the purposes of public safety, the forest closure extends beyond
+                the fire perimeter. The forest closure includes a portion of the Arizona Trail...
+            </description>
+        </item>
+        <item>
+            <title>Ghost Fire (Wildfire)</title>
+            <published>Fri, 09 Aug 2019 08:12:26 -05:00</published>
+            <pubDate>Fri, 09 Aug 2019 08:12:26 -05:00</pubDate>
+            <georss:point>33.661944444444 -108.41055555556</georss:point>
+            <geo:lat>33.661944444444</geo:lat>
+            <geo:long>-108.41055555556</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6499/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6499/</guid>
+            <description>The lightning-caused Ghost Fire, reported on Saturday, August 3 is
+                approximately 40 acres, burning on National Forest System lands in Catron County,
+                NM. It is burning in ponderosa pine pinyon juniper, oak, and grass approximately 3
+                miles east of Collins Park. The crew and two engines plan to keep the fire south of
+                the Bursum Road in Y Canyon, east of FR 4047U, and north of FR 4047Z. The fire is
+                visible from Elk Springs Subdivision and NM Highway 12 as crews burn out in advance
+                of the fire. The Fire is exhibiting moderate to low fire effects. This particular
+                area is drier than most of the surrounding area, but is anticipated to receive rain
+                with the current forecast.
+            </description>
+        </item>
+        <item>
+            <title>Bear Fire (Wildfire)</title>
+            <published>Fri, 09 Aug 2019 08:11:14 -05:00</published>
+            <pubDate>Fri, 09 Aug 2019 08:11:14 -05:00</pubDate>
+            <georss:point>33.576388888889 -107.98444444444</georss:point>
+            <geo:lat>33.576388888889</geo:lat>
+            <geo:long>-107.98444444444</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6434/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6434/</guid>
+            <description>The lightning-caused Bear Fire is approximately 1,350 acres, burning on
+                National Forest System lands in the Black Range Ranger District. This fire is
+                approximately 25 miles northwest of Winston, NM. Minimal fire activity is occurring
+                and is moderated by occasional precipitation.
+            </description>
+        </item>
+        <item>
+            <title>Adobe Fire (Wildfire)</title>
+            <published>Fri, 09 Aug 2019 08:10:20 -05:00</published>
+            <pubDate>Fri, 09 Aug 2019 08:10:20 -05:00</pubDate>
+            <georss:point>33.537777777778 -107.87555555556</georss:point>
+            <geo:lat>33.537777777778</geo:lat>
+            <geo:long>-107.87555555556</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6500/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6500/</guid>
+            <description>The lightning-caused Adobe Fire, reported Saturday, August 3, is
+                approximately 125 acres, burning on National Forest System lands, Sierra County, NM.
+                This fire lies just east of the private property, Los Adobe Ranch; and three miles
+                south of an El Paso Electric powerline. It is burning in grass and ponderosa pine.
+                This fire is visible from Winston, NM. With predicted weather, values, fire growth
+                potential a decision has been made to manage this fire and allow fire to play its
+                natural role on the landscape.
+            </description>
+        </item>
+        <item>
+            <title>Lick Creek Fire (Wildfire)</title>
+            <published>Thu, 08 Aug 2019 16:38:48 -05:00</published>
+            <pubDate>Thu, 08 Aug 2019 16:38:48 -05:00</pubDate>
+            <georss:point>44.850833333333 -107.69</georss:point>
+            <geo:lat>44.850833333333</geo:lat>
+            <geo:long>-107.69</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6479/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6479/</guid>
+            <description>On the evening of July 30th, firefighters were looking for two reported
+                fires in northern portion of the Bighorn National Forest. It was determined that
+                there is likely only one fire, named the Lick Creek fire. This fire is located
+                approximately one mile down Forest Trail 076, accessed by Forest Road 147, off of
+                the Dayton Gulch Road (Forest Road 15). It is described as Township 56N, R 90 W,
+                Section 9. It is currently 4 acres in size, burning in heavy timber fuels.
+                Approximately 15 firefighters using All Terrain Vehicles and one helicopter from the
+                Wyoming State Forestry arrived on the fire this morning to begin suppression actions
+                of fireline construction and water drops. An additional 10 firefighters have been
+                ordered to help secure the fire. Weather will remain hot and dry, and while the fire
+                danger indeces are currently Moderate, the fire has potential to grow with passing
+                thunderstorm winds that could hit the fire. The public should remain out of the fire
+                area. Forest Road 147...
+            </description>
+        </item>
+        <item>
+            <title>Museum Fire BAER Info (Burned Area Emergency Response)</title>
+            <published>Thu, 08 Aug 2019 12:18:48 -05:00</published>
+            <pubDate>Thu, 08 Aug 2019 12:18:48 -05:00</pubDate>
+            <georss:point>35.257777777778 -111.64305555556</georss:point>
+            <geo:lat>35.257777777778</geo:lat>
+            <geo:long>-111.64305555556</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6482/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6482/</guid>
+            <description>A Burned Area Emergency Response (BAER) team has been established to begin
+                burned area surveys of the Museum Fire. BAER team assessments are rapid evaluations
+                of post-fire conditions of the burned landscape to determine the level of risk from
+                potential flooding and debris flow to values on National Forest System lands such as
+                human life, safety, property, and critical natural and cultural resources. If
+                unacceptable risks are found the team recommends appropriate and effective emergency
+                stabilization measures to reduce the risks to National Forest lands and values. BAER
+                teams conduct field surveys and use science-based models to rapidly evaluate and
+                assess the burned area. The BAER program is designed to identify and manage
+                potential risks to resources on NFS lands and reduce these threats through
+                appropriate emergency measures to protect human life and safety, property, and
+                critical natural or cultural resources. BAER is an emergency program for
+                stabilization work that involves...
+            </description>
+        </item>
+        <item>
+            <title>Newman Fire BAER Info (Burned Area Emergency Response)</title>
+            <published>Wed, 07 Aug 2019 18:32:11 -05:00</published>
+            <pubDate>Wed, 07 Aug 2019 18:32:11 -05:00</pubDate>
+            <georss:point>35.0225 -111.525</georss:point>
+            <geo:lat>35.0225</geo:lat>
+            <geo:long>-111.525</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6483/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6483/</guid>
+            <description>A Burned Area Emergency Response (BAER) team has been established to begin
+                burned area surveys of the Museum Fire. BAER team assessments are rapid evaluations
+                of post-fire conditions of the burned landscape to determine the level of risk from
+                potential flooding and debris flow to values on National Forest System (NFS) lands
+                such as human life, safety, property, and critical natural and cultural resources.
+                If unacceptable risks are found the team recommends appropriate and effective
+                emergency stabilization measures to reduce the risks to National Forest lands and
+                values. BAER teams conduct field surveys and use science-based models to rapidly
+                evaluate and assess the burned area. The BAER program is designed to identify and
+                manage potential risks to resources on NFS lands and reduce these threats through
+                appropriate emergency measures to protect human life and safety, property, and
+                critical natural or cultural resources. BAER is an emergency program for
+                stabilization work that...
+            </description>
+        </item>
+        <item>
+            <title>Woodbury Fire - BAER (Burned Area Emergency Response)</title>
+            <published>Tue, 06 Aug 2019 16:47:03 -05:00</published>
+            <pubDate>Tue, 06 Aug 2019 16:47:03 -05:00</pubDate>
+            <georss:point>33.442777777778 -111.16583333333</georss:point>
+            <geo:lat>33.442777777778</geo:lat>
+            <geo:long>-111.16583333333</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6405/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6405/</guid>
+            <description>Burned Area Emergency Response (BAER) teams have been established to begin
+                burned area surveys of the wildfires that recently burned on federal lands of the
+                U.S. Forest Service - Southwestern Region. BAER team surveys are rapid assessments
+                of the burned areas that evaluate post-fire conditions of the burned watersheds and
+                determine the potential for increased post-fire flooding, sediment flows, and
+                rockslides. BAER teams typically consist of scientists and specialists including
+                hydrologists, geologists, soil scientists, road engineers, botanists, wildlife and
+                fisheries biologists, archaeologists, recreation and trails specialists, and
+                geographic information specialists, from federal and state agencies. BAER teams work
+                together during the burned area surveys, field data analysis and modeling phase, to
+                present findings along with recommended BAER treatments to the Forest Supervisor.
+                BAER teams analyze the data they collect during the surveys, to produce a “Soil Burn
+                Severity”...
+            </description>
+        </item>
+        <item>
+            <title>Canyon Fire (Wildfire)</title>
+            <published>Sat, 03 Aug 2019 08:03:56 -05:00</published>
+            <pubDate>Sat, 03 Aug 2019 08:03:56 -05:00</pubDate>
+            <georss:point>44.250555555556 -115.2275</georss:point>
+            <geo:lat>44.250555555556</geo:lat>
+            <geo:long>-115.2275</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6438/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6438/</guid>
+            <description>Canyon Fire 100 percent containment on August 2, 2019With 88 percent
+                containment of the 326 acre Canyon Fire, firefighters have made significant progress
+                toward containment Aug. 2, 2019. Crews will continue to secure, patrol and monitor
+                lines for flare ups along all sides and particularly along the northern flank near
+                the West Fork of Canyon Creek. Demobilization is occurring sending many of the
+                resources to other fires or back to their home units. The fire suppression repair
+                plan, to mitigate any adverse impacts resulting from fire suppression activities,
+                has been implemented. WEATHER: A smattering of lightning and spotty rain occurred
+                during the arrival of a dry cold front Tuesday evening. Aerial detection patrols
+                have been ordered to look for new ignitions. Resources will respond to any new fires
+                or hold overs that flare up in the next few days. The next frontal system is
+                predicted to arrive over southern Idaho, Friday. RESOURCES: Currently there are 34
+                personnel on the fire...
+            </description>
+        </item>
+        <item>
+            <title>Sherman Prescribed Burn (Prescribed Fire)</title>
+            <published>Sun, 28 Jul 2019 15:32:07 -05:00</published>
+            <pubDate>Sun, 28 Jul 2019 15:32:07 -05:00</pubDate>
+            <georss:point>36.582777777778 -118.75416666667</georss:point>
+            <geo:lat>36.582777777778</geo:lat>
+            <geo:long>-118.75416666667</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6245/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6245/</guid>
+            <description>Fire staff completed ignitions on the last segment of the Sherman
+                Prescribed Burn on Thursday, July 11th, for a total of 245 acres treated. With
+                ignitions complete, firefighters will continue to patrol the area as vegetation
+                inside the unit burns down. Access to the General Sherman Tree remains open from the
+                Sherman Tree parking lots.The Sherman Prescribed Burn is located in the Giant Forest
+                area of Sequoia National Park, approximately one half mile northeast of the Giant
+                Forest Museum. Visitors driving or hiking near the area may see smoke and/or areas
+                of active flame, and are asked to exercise caution, stay on trails, and observe
+                signs and directions from park staff. Some trails, including the Congress Trail,
+                have been reopened. Other trails remain closed due to lingering fire activity and
+                other hazards. Closures are clearly flagged. Open trails do not necessarily mean
+                that the area is cold. Visitors on these trails are likely to encounter smoke,
+                smoldering, or pockets of active...
+            </description>
+        </item>
+        <item>
+            <title>Graham Fire (Wildfire)</title>
+            <published>Sun, 28 Jul 2019 11:47:14 -05:00</published>
+            <pubDate>Sun, 28 Jul 2019 11:47:14 -05:00</pubDate>
+            <georss:point>47.456666666667 -117.68222222222</georss:point>
+            <geo:lat>47.456666666667</geo:lat>
+            <geo:long>-117.68222222222</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6459/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6459/</guid>
+            <description>The Graham fire was one of four fires that started July 24, 2019, southwest
+                of Cheney, WA. Firefighters from local, state and federal agencies responded and
+                worked effectively to suppress the fires. Northeast Washington Interagency Incident
+                Management Team 2 was ordered to help manage the Graham Fire and three smaller fires
+                in the area. The team is currently assisting the local jurisdictions with the
+                Graham, Badger, Lake Badger and Grogan
+            </description>
+        </item>
+        <item>
+            <title>Nugget Creek Fire (Wildfire)</title>
+            <published>Fri, 26 Jul 2019 12:22:47 -05:00</published>
+            <pubDate>Fri, 26 Jul 2019 12:22:47 -05:00</pubDate>
+            <georss:point>64.873888888889 -146.55527777778</georss:point>
+            <geo:lat>64.873888888889</geo:lat>
+            <geo:long>-146.55527777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6401/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6401/</guid>
+            <description>The lightning-caused Nugget Creek Fire started on June 21, 2019
+                approximately 35 miles east of Fairbanks in the area of 30 Mile Chena Hot Springs
+                Road in the Chena River State Recreation Area. Air attack responded and reported a
+                150-acre burning in black spruce approximately 2 miles from Chena Hot Springs Road
+                on the south side of the river. The fire plotted in a Limited protection area near
+                the South Fork Chena River. No resources were threatened and the fire was placed in
+                monitor
+            </description>
+        </item>
+        <item>
+            <title>Shovel Creek Fire (Wildfire)</title>
+            <published>Wed, 24 Jul 2019 16:19:53 -05:00</published>
+            <pubDate>Wed, 24 Jul 2019 16:19:53 -05:00</pubDate>
+            <georss:point>64.986944444444 -148.41527777778</georss:point>
+            <geo:lat>64.986944444444</geo:lat>
+            <geo:long>-148.41527777778</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6400/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6400/</guid>
+            <description>The Shovel Creek Fire (#319) was started by lightning on June 21 and is
+                located 3 miles north of Murphy Dome, about 20 miles northwest of Fairbanks.
+                Depending on weather conditions, smoke from this fire may drift into the Fairbanks
+                and surrounding areas in the coming weeks. The fire started in a Full Protection
+                Area and the Division of Forestry ordered water-scooping aircraft, air retardant
+                tankers and smokejumpers for initial attack. Burning in continuous black spruce, the
+                fire grew quickly and was estimated to be 300 acres on the first evening. The
+                Northern Rockies Team 6, led by Incident Commander Bob Fry, assumed command of the
+                incident on July 15 at 6pm. The objectives for the incident include:Hold the fire
+                perimeter, mop up to the extent necessary to reduce the likelihood of escape based
+                on firefighter experience, terrain, fuel type, and both current and expected fire
+                behavior and weather in the following locations:• Chatanika River south to Murphy
+                Dome through the Hard Luck...
+            </description>
+        </item>
+        <item>
+            <title>Francisquito Fire (Wildfire)</title>
+            <published>Mon, 22 Jul 2019 10:47:40 -05:00</published>
+            <pubDate>Mon, 22 Jul 2019 10:47:40 -05:00</pubDate>
+            <georss:point>36.449444444444 -106.20694444444</georss:point>
+            <geo:lat>36.449444444444</geo:lat>
+            <geo:long>-106.20694444444</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6444/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6444/</guid>
+            <description>The Francisquito Fire was detected on July 13th on the El Rito Ranger
+                District of the Carson National Forest, approximately 7 miles north of the community
+                of El Rito. The fire is creeping with low to moderate fire behavior and is not a
+                threat to any values at risk. Firefighters will use ignitions to continue to treat
+                this area.Access to the fire is difficult so firefighters have scouted the area for
+                opportunities to find roads or other natural barriers to use to confine the fire to
+                a certain area. The forest just north of these fires already burned in 2018 as part
+                of the Alamosa Prescribed Fire which will provide an opportunity to limit fire
+                spread. After taking into consideration the fire’s location, the fuels it is burning
+                in, considerable green-up in the forest, and current and predicted precipitation,
+                the Carson National Forest decided to manage these fires to achieve multiple
+                resource benefits. The forest’s first priority is always firefighter and public
+                safety. Allowing the...
+            </description>
+        </item>
+        <item>
+            <title>Montana Creek Fire (Wildfire)</title>
+            <published>Sun, 21 Jul 2019 18:37:07 -05:00</published>
+            <pubDate>Sun, 21 Jul 2019 18:37:07 -05:00</pubDate>
+            <georss:point>62.1225 -149.98694444444</georss:point>
+            <geo:lat>62.1225</geo:lat>
+            <geo:long>-149.98694444444</geo:long>
+            <link>http://inciweb.nwcg.gov/incident/6424/</link>
+            <guid isPermaLink="true">http://inciweb.nwcg.gov/incident/6424/</guid>
+            <description>The Montana Creek Fire started at 3:00 P.M. on 7-3-2019. Cause of fire is
+                under investigation. The fire is located 2 ½ miles east of the Parks Highway at Mile
+                98, south of the Talkeetna Cutoff.
+            </description>
+        </item>
+    </channel>
+</rss>
